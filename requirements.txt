@@ -1,0 +1,5 @@
+fastai
+uvicorn
+pillow
+fastapi
+python-multipart
